@@ -36,7 +36,10 @@ name: psiphon3.exe
 MD5: 45fad0211e399c9e55491c3138021d0e
 
 
+
 ##########################################################################
+
+Notes:
 
 For more options, please see these websites (blocked by GFW, need to turn over first):
 
