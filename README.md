@@ -21,7 +21,7 @@ version: 19.02
 
 MD5: 48fe7b7c67bc65aaa1f0a1318b45a3b5
 
-2.freegate
+2. freegate
 
 name: fg779p.exe
 
@@ -29,7 +29,7 @@ version: 7.79 Professional
 
 MD5: 8f99bb5ec705deda47c5aa2b391a2a7e
 
-3.psiphon3
+3. psiphon3
 
 name: psiphon3.exe
 
