@@ -41,7 +41,7 @@ MD5: 45fad0211e399c9e55491c3138021d0e
 
 Notes:
 
-For more options, please see these websites (blocked by GFW, need to turn over first):
+For more options, please see these websites (Blocked, need to turn over first):
 
 
 https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html
